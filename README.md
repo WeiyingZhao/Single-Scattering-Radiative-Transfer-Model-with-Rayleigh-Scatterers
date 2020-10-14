@@ -4,7 +4,7 @@
 Under improvement
 
 
-![Test Image 1](VolumeScattering.png)
+![Test Image 1](VolumeScattering1.png)
 
 1)The Radiative model can connect the information acquired from optical images and microwave images
 
